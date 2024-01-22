@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source config_v1/config_pytorch_16GB.sh
+source config_v1/config_pytorch_12GB.sh
 
 NUM_GPU=2
 NUM_EXP=1
